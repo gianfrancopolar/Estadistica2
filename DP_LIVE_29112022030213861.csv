@@ -1,4 +1,4 @@
-﻿"Country,""INDICATOR"",""SUBJECT"",""MEASURE"",""FREQUENCY"",""TIME"",""Gender"",""Flag Codes"""
+﻿"""Country"",""INDICATOR"",""SUBJECT"",""MEASURE"",""FREQUENCY"",""TIME"",""Value"",""Flag Codes"""
 "AUS,""VIOLWOMEN"",""ATTITUDEVIOL"",""PC"",""A"",""2019"",3.2,"
 "CAN,""VIOLWOMEN"",""ATTITUDEVIOL"",""PC"",""A"",""2019"",7.8,"
 "FIN,""VIOLWOMEN"",""ATTITUDEVIOL"",""PC"",""A"",""2019"",11.2,"
